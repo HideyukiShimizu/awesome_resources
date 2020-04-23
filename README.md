@@ -5,7 +5,7 @@ Keras<br>
 PyTorch<br>
 
 <h2>機械学習・深層学習のツール</h2>
-<a href='http://togotv.dbcls.jp/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。
+<a href='https://openai.com/blog/microscope/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。
 
 <h2>バイオインフォマティクス情報源</h2>
 <a href='http://togotv.dbcls.jp/'>TogoTV</a><br>
