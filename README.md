@@ -23,4 +23,7 @@ PyTorch<br>
 <h3>創薬</h3>
 <a href='https://www.drugbank.ca/'>DrugBank</a>: 治療薬とその標的遺伝子に関するデータベース<br>
 <a href='http://db.idrblab.net/ttd/'>TTD (Therapeutic Targets Database)</a>: 治療薬とその標的遺伝子に関するデータベース<br>
-<a href='http://db.idrblab.net/ttd/'>SuperTarget</a>: 治療薬とその標的遺伝子に関するデータベース、特に標的遺伝子のデータが充実<br>
+<a href='http://insilico.charite.de/supertarget/'>SuperTarget</a>: 治療薬とその標的遺伝子に関するデータベース、特に標的遺伝子のデータが充実<br>
+<a href='https://www.genome.jp/kegg-bin/get_htext?br08303'>ATC (Anatomical Therapeutic Chemical) Classification</a>: 解剖治療化学分類法という、WHO分類に基づく疾患と治療薬の網羅的対応表<br>
+<a href='http://stitch.embl.de/'>STITCH</a>: 化合部とタンパク質が構成するネットワーク情報のウェブサイト<br>
+<a href='https://string-db.org/'>STRING</a>: タンパク質間相互作用ネットワーク情報のウェブサイト<br>
