@@ -4,7 +4,7 @@
 <h2>GitHubレポジトリー</h2>
 <a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
-<a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集
+<a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集<br>
 <a href='https://github.com/microsoft/forecasting'>Time Series Forecasting Best Practices & Examples</a>: Microsoftがまとめた時系列モデル構築のベストプラクティス集。Python/R双方のJupyter Notebookつき。
 
 <h2>読みかけ論文</h2>
