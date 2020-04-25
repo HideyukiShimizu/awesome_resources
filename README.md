@@ -25,6 +25,10 @@ PyTorch<br>
 <h3>クラスタリング</h3>
 <a href='https://towardsdatascience.com/dbscan-clustering-explained-97556a2ad556'>DBSCAN Clustering — Explained</a>
 
+<h2>コード付きチュートリアル</h2>
+<a href='https://towardsdatascience.com/build-a-gender-classifier-in-google-colab-using-tensorflow-keras-and-tensorboard-2cd6f952d8aa'>Build a Gender Classifier in Google Colab using TensorFlow and Keras</a>: 顔写真から男女を識別する (TensorFlow/Keras)
+
+
 <h2>自然言語処理</h2>
 <a href='https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp'>DistilBERT-base-jp</a>:日本語Wikipediaで学習したDistilBERT。MITライセンス。<br>
 <a href='https://towardsdatascience.com/natural-language-processing-the-age-of-transformers-a36c0265937d'>Natural Language Processing: the Age of Transformers</a>自然言語処理の短い歴史 (RNN, Attention,Transformer)
@@ -57,7 +61,12 @@ PyTorch<br>
 <a href='https://speakerdeck.com/motokimura/shi-jian-karumanhuiruta'>An Optimistic Perspective on Offline Reinforcement Learning</a> 学習済みエージェントの行動履歴から学習するOffline強化学習についてのGoogleの研究。新しいデータが取れない状態で汎化させるため、複数エージェントの価値予測をランダムにアンサンブルして予測を行う(Random Ensemble Mixture)。強化学習版の蒸留だ。
 <h1>バイオインフォマティクス</h1>
 <h2>バイオインフォマティクスデータベース</h2>
-
+<h3>GWAS</h3>
+<a href='https://www.ebi.ac.uk/gwas/'>GWAS Catalog</a>: GWAS結果のアーカイブサイト<br>
+<a href='http://www.nealelab.is/uk-biobank'>UK Biobank (neale lab)</a>: UKバイオバンクのGWAS結果がダウンロードできる。Harvard大のグループが運営
+<a href='http://geneatlas.roslin.ed.ac.uk/'>Gene ATLAS</a>: UKバイオバンクのGWAS結果がダウンロードできる。Edinburgh大のグループが運営
+<a href='http://diagram-consortium.org/downloads.html'>DIAGRAM</a>: 2型糖尿病GWASの全SNP結果がダウンロードできる
+<a href='https://www.magicinvestigators.org/'>MAGIC</a>: インスリン代謝GWASの全SNP結果がダウンロードできる
 <h3>タンパク質</h3>
 <a href='https://www.ebi.ac.uk/intact/'>IntAct</a>: EBIが運営するタンパク-タンパク結合実験データベース<br>
 <a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース
