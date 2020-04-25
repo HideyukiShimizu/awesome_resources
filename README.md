@@ -32,7 +32,7 @@ PyTorch<br>
 <h2>バイオインフォマティクスデータベース</h2>
 
 <h3>タンパク質</h3>
-<a href='https://www.ebi.ac.uk/intact/'>IntAct</a>: EBIが運営するタンパク-タンパク結合実験データベース
+<a href='https://www.ebi.ac.uk/intact/'>IntAct</a>: EBIが運営するタンパク-タンパク結合実験データベース<br>
 <a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース
 <h3>創薬</h3>
 <a href='https://www.drugbank.ca/'>DrugBank</a>: 治療薬とその標的遺伝子に関するデータベース<br>
