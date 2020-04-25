@@ -17,6 +17,7 @@ Scikit-Learn<br>
 TensorFlow<br>
 Keras<br>
 PyTorch<br>
+<a href='https://github.com/pytorch/serve'>TorchServe</a>: PyTorchモデルをREST API化するツール。Amazon & Facebook共同開発<br>
 <a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク<br>
 
 <h2>自然言語処理</h2>
@@ -38,7 +39,7 @@ PyTorch<br>
 <a href='https://arxiv.org/abs/2004.03805?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter'>State of the Art on Neural Rendering</a> (2020) DNNを利用した画像描画に関する研究。CGで使われる物理法則、画像生成処理をそれぞれ紹介した後に、実際のレンダリング手法を様々な観点から評価を行った。Table1は要チェック。
 <h3>アルゴリズム自動生成</h3>
 <a href='https://arxiv.org/abs/2004.03805'>AutoML-Zero: Evolving Machine Learning Algorithms From Scratch</a> (2020) 機械学習アルゴリズムを自動生成するAutoML Zeroの研究。<a href='https://github.com/google-research/google-research/tree/master/automl_zero'>コード</a> (C++) あり<br>
-<a href='https://petar-v.com/talks/Algo-WWW.pdf'>Graph Representation Learning for Algorithmic Reasoning</a>
+<a href='https://petar-v.com/talks/Algo-WWW.pdf'>Graph Representation Learning for Algorithmic Reasoning</a> DeepMind社の資料で、Graph Neural Networkを使用してアルゴリズムを学習/発見する研究の紹介。演算の実行、ステップレベルの演算学習、End2Endでのアルゴリズム学習という進化を提示している。
 
 <h3>物体検出</h3>
 <a href='https://arxiv.org/abs/2004.10934'>YOLOv4: Optimal Speed and Accuracy of Object Detection</a> (2020) YOLOv4の報告。
