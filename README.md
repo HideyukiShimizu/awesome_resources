@@ -1,12 +1,18 @@
 医師・医学博士。人工知能 x バイオインフォマティクス x 合成生物学によるイノベーションとその医学応用を目指す研究者です (これまでの研究については<a href='https://researchmap.jp/h_shimizu'>こちら</a>)。
 このレポジトリーでは有用なリソースや学術論文を忘備録的にまとめています。
 
+<h2>GitHubレポジトリー</h2>
+<a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
+<a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
+<a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集
+
+
 <h2>機械学習・深層学習のフレームワーク</h2>
 Scikit-Learn<br>
 TensorFlow<br>
 Keras<br>
 PyTorch<br>
-
+<a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク<br>
 <h2>機械学習・深層学習のツール</h2>
 <a href='https://openai.com/blog/microscope/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。
 
