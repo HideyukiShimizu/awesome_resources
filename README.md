@@ -63,10 +63,10 @@ PyTorch<br>
 <h2>バイオインフォマティクスデータベース</h2>
 <h3>GWAS</h3>
 <a href='https://www.ebi.ac.uk/gwas/'>GWAS Catalog</a>: GWAS結果のアーカイブサイト<br>
-<a href='http://www.nealelab.is/uk-biobank'>UK Biobank (neale lab)</a>: UKバイオバンクのGWAS結果がダウンロードできる。Harvard大のグループが運営
-<a href='http://geneatlas.roslin.ed.ac.uk/'>Gene ATLAS</a>: UKバイオバンクのGWAS結果がダウンロードできる。Edinburgh大のグループが運営
-<a href='http://diagram-consortium.org/downloads.html'>DIAGRAM</a>: 2型糖尿病GWASの全SNP結果がダウンロードできる
-<a href='https://www.magicinvestigators.org/'>MAGIC</a>: インスリン代謝GWASの全SNP結果がダウンロードできる
+<a href='http://www.nealelab.is/uk-biobank'>UK Biobank (neale lab)</a>: UKバイオバンクのGWAS結果がダウンロードできる。Harvard大のグループが運営<br>
+<a href='http://geneatlas.roslin.ed.ac.uk/'>Gene ATLAS</a>: UKバイオバンクのGWAS結果がダウンロードできる。Edinburgh大のグループが運営<br>
+<a href='http://diagram-consortium.org/downloads.html'>DIAGRAM</a>: 2型糖尿病GWASの全SNP結果がダウンロードできる<br>
+<a href='https://www.magicinvestigators.org/'>MAGIC</a>: インスリン代謝GWASの全SNP結果がダウンロードできる<br>
 <h3>タンパク質</h3>
 <a href='https://www.ebi.ac.uk/intact/'>IntAct</a>: EBIが運営するタンパク-タンパク結合実験データベース<br>
 <a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース
