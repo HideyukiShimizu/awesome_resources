@@ -1,6 +1,6 @@
 医師・医学博士。人工知能 x バイオインフォマティクス x 合成生物学によるイノベーションとその医学応用を目指す研究者です (これまでの研究については<a href='https://researchmap.jp/h_shimizu'>こちら</a>)。
 このレポジトリーでは有用なリソースや学術論文を忘備録的にまとめています。
-
+<h1>人工知能</h1>
 <h2>GitHubレポジトリー</h2>
 <a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
@@ -49,7 +49,7 @@ PyTorch<br>
 
 <h3>強化学習</h3>
 <a href='https://speakerdeck.com/motokimura/shi-jian-karumanhuiruta'>An Optimistic Perspective on Offline Reinforcement Learning</a> 学習済みエージェントの行動履歴から学習するOffline強化学習についてのGoogleの研究。新しいデータが取れない状態で汎化させるため、複数エージェントの価値予測をランダムにアンサンブルして予測を行う(Random Ensemble Mixture)。強化学習版の蒸留だ。
-
+<h1>バイオインフォマティクス</h1>
 <h2>バイオインフォマティクスデータベース</h2>
 
 <h3>タンパク質</h3>
@@ -62,3 +62,5 @@ PyTorch<br>
 <a href='https://www.genome.jp/kegg-bin/get_htext?br08303'>ATC (Anatomical Therapeutic Chemical) Classification</a>: 解剖治療化学分類法という、WHO分類に基づく疾患と治療薬の網羅的対応表<br>
 <a href='http://stitch.embl.de/'>STITCH</a>: 化合部とタンパク質が構成するネットワーク情報のウェブサイト<br>
 <a href='https://string-db.org/'>STRING</a>: タンパク質間相互作用ネットワーク情報のウェブサイト<br>
+
+<h1>合成生物学</h1>
