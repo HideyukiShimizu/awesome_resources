@@ -5,6 +5,7 @@
 <a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集
+<a href='https://github.com/microsoft/forecasting'>Time Series Forecasting Best Practices & Examples</a>: Microsoftがまとめた時系列モデル構築のベストプラクティス集。Python/R双方のJupyter Notebookつき。
 
 <h2>読みかけ論文</h2>
 <a href='https://www.nature.com/articles/s41586-020-2188-x'>A reference map of the human binary protein interactome</a>
@@ -28,6 +29,11 @@ PyTorch<br>
 <h2>機械学習の学術論文</h2>
 <h3>ニューラルレンダリング</h3>
 <a href='https://arxiv.org/abs/2004.03805?utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter'>State of the Art on Neural Rendering</a> (2020) DNNを利用した画像描画に関する研究。CGで使われる物理法則、画像生成処理をそれぞれ紹介した後に、実際のレンダリング手法を様々な観点から評価を行った。Table1は要チェック。
+<h3>アルゴリズム自動生成</h3>
+<a href='https://arxiv.org/abs/2004.03805'>AutoML-Zero: Evolving Machine Learning Algorithms From Scratch</a> (2020) 機械学習アルゴリズムを自動生成するAutoML Zeroの研究。<a href='https://github.com/google-research/google-research/tree/master/automl_zero'>コード</a> (C++) あり
+<h3>物体検出</h3>
+<a href='https://arxiv.org/abs/2004.10934'>YOLOv4: Optimal Speed and Accuracy of Object Detection</a> (2020) YOLOv4の報告。
+
 
 <h2>バイオインフォマティクスデータベース</h2>
 
