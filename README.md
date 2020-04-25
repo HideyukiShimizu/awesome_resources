@@ -44,6 +44,11 @@ PyTorch<br>
 <h3>物体検出</h3>
 <a href='https://arxiv.org/abs/2004.10934'>YOLOv4: Optimal Speed and Accuracy of Object Detection</a> (2020) YOLOv4の報告。
 
+<h3>時系列データ処理</h3>
+<a href='https://speakerdeck.com/motokimura/shi-jian-karumanhuiruta'>実践カルマンフィルタ</a> 時系列で変化する状態を推定するカルマンフィルタの解説スライド。カルマンフィルタはロボットなどの自己位置推定に使用されており、KITTI(自動運転車)のデータセットでその有効性を確認している(実験コードあり)。
+
+<h3>強化学習</h3>
+<a href='https://speakerdeck.com/motokimura/shi-jian-karumanhuiruta'>An Optimistic Perspective on Offline Reinforcement Learning</a> 学習済みエージェントの行動履歴から学習するOffline強化学習についてのGoogleの研究。新しいデータが取れない状態で汎化させるため、複数エージェントの価値予測をランダムにアンサンブルして予測を行う(Random Ensemble Mixture)。強化学習版の蒸留だ。
 
 <h2>バイオインフォマティクスデータベース</h2>
 
