@@ -18,6 +18,13 @@ TensorFlow<br>
 Keras<br>
 PyTorch<br>
 <a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク<br>
+
+<h2>自然言語処理</h2>
+<a href='https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp'>DistilBERT-base-jp</a>:日本語Wikipediaで学習したDistilBERT。MITライセンス。
+
+<h2>強化学習</h2>
+<a href='https://github.com/Baekalfen/PyBoy'>PyBoy</a>:Python製のゲームボーイエミュレーター
+
 <h2>機械学習・深層学習のツール</h2>
 <a href='https://openai.com/blog/microscope/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。
 
