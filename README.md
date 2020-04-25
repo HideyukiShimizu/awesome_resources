@@ -14,7 +14,7 @@
 
 <h2>機械学習・深層学習のフレームワーク</h2>
 Scikit-Learn<br>
-<a href='https://pycaret.org/'>PyCaret</a>: データ前処理や可視化、機械学習のモデル開発を数行のコードで出来てしまうPythonのライブラリ
+<a href='https://pycaret.org/'>PyCaret</a>: データ前処理や可視化、機械学習のモデル開発を数行のコードで出来てしまうPythonのライブラリ<br>
 TensorFlow<br>
 Keras<br>
 PyTorch<br>
