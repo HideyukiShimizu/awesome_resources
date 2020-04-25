@@ -6,6 +6,10 @@
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集
 
+<h2>読みかけ論文</h2>
+<a href='https://www.nature.com/articles/s41586-020-2188-x'>A reference map of the human binary protein interactome</a>
+その<a href='https://github.com/CCSB-DFCI/HuRI_paper'>コード</a>
+
 
 <h2>機械学習・深層学習のフレームワーク</h2>
 Scikit-Learn<br>
