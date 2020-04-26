@@ -12,7 +12,15 @@
 <a href='https://nips.cc/'>NeurIPS</a>: 機械学習、12月上旬
 
 <h3>フォローすべきメディア</h3>
-<a href='https://www.getrevue.co/profile/icoxfog417/'>Weekly Machine Learning</a>: 1週間のこの界隈の話題を日本語でまとめている
+<a href='https://www.getrevue.co/profile/icoxfog417/'>Weekly Machine Learning</a>: 1週間のこの界隈の話題を日本語でまとめている<br>
+<a href='https://ai-scholar.tech/'>AI-SCHOLAR:</a>AIの研究論文をバックグランドと合わせて日本語で解説するブログ<br>
+<a href='http://xpaperchallenge.org/cv/'>cv.paperchalllenge:</a>コンピュータービジョンの最先端研究をみんなで読み解く<br>
+<a href='http://xpaperchallenge.org/nlp/'>nlp.paperchalllenge:</a>自然言語処理の最先端研究をみんなで読み解く<br>
+<a href='https://distill.pub/'>Distill:</a>Google Brain, OpenAI, MIT CSAILによって運営される機械学習メディア<br>
+<a href='http://web.stanford.edu/class/cs230/'>CS230: Deep Learning:</a>スタンフォード大の深層学習の講座。YouTubeで視聴できる。<br>
+<a href='http://web.stanford.edu/class/cs231n/'>CS231n: Convolutional Neural Networks for Visual Recognition:</a>スタンフォード大の画像認識の講座。YouTubeで視聴できる。<br>
+<a href='http://web.stanford.edu/class/cs224n/'>CS224N: Natural Language Processing with Deep Learning:</a>スタンフォード大の自然言語処理の講座。YouTubeで視聴できる。<br>
+<a href='http://web.stanford.edu/class/cs234/'>CS234: Reinforcement Learningg:</a>スタンフォード大の強化学習の講座。YouTubeで視聴できる。<br>
 
 <h2>最新モデル</h2>
 <a href='https://paperswithcode.com/sota'>Papers With COde - Browse the State-of-the-Art in Machine Learning</a>: 現時点での最高スコアを持つチャンピオンSOTA (State-of-the-Art) を集めたカタログ。実装付きの1万の論文、900のタスク。何か具体的にやりたいものがあるときの参照先。
