@@ -1,6 +1,16 @@
 医師・医学博士。人工知能 x バイオインフォマティクス x 合成生物学によるイノベーションとその医学応用を目指す研究者です (これまでの研究については<a href='https://researchmap.jp/h_shimizu'>こちら</a>)。
 このレポジトリーでは有用なリソースや学術論文を忘備録的にまとめています。
 <h1>人工知能</h1>
+<h2>人工知能の情報収集</h2>
+<h3>主要な国際学会</h3>
+<a href='https://www.aaai.org/'>AAAI</a>: アメリカ人工知能学会、1月下旬<br>
+<a href='https://iclr.cc/'>ICLR</a>: 表現学習、5月上旬<br>
+<a href='https://icml.cc/'>ICML</a>: 機械学習、6月中旬<br>
+<a href='http://cvpr2020.thecvf.com/'>CVPR</a>: コンピュータービジョン、6月下旬<br>
+<a href='https://www.aclweb.org/portal/'>ACL</a>: 自然言語処理、7月下旬<br>
+<a href='https://ismir.net/'>ISMIR</a>: 音楽情報処理、11月上旬<br>
+<a href='https://nips.cc/'>NeurIPS</a>: 機械学習、12月上旬
+
 <h2>最新モデル</h2>
 <a href='https://paperswithcode.com/sota'>Papers With COde - Browse the State-of-the-Art in Machine Learning</a>: 現時点での最高スコアを持つチャンピオンSOTA (State-of-the-Art) を集めたカタログ。実装付きの1万の論文、900のタスク。何か具体的にやりたいものがあるときの参照先。
 
