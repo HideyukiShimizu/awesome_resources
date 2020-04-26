@@ -1,6 +1,9 @@
 医師・医学博士。人工知能 x バイオインフォマティクス x 合成生物学によるイノベーションとその医学応用を目指す研究者です (これまでの研究については<a href='https://researchmap.jp/h_shimizu'>こちら</a>)。
 このレポジトリーでは有用なリソースや学術論文を忘備録的にまとめています。
 <h1>人工知能</h1>
+<h2>最新モデル</h2>
+<a href='https://paperswithcode.com/sota'>Papers With COde - Browse the State-of-the-Art in Machine Learning</a>: 現時点での最高スコアを持つチャンピオンSOTA (State-of-the-Art) を集めたカタログ。実装付きの1万の論文、900のタスク。何か具体的にやりたいものがあるときの参照先。
+
 <h2>GitHubレポジトリー</h2>
 <a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
@@ -10,6 +13,11 @@
 <h2>読みかけ論文</h2>
 <a href='https://www.nature.com/articles/s41586-020-2188-x'>A reference map of the human binary protein interactome</a>
 その<a href='https://github.com/CCSB-DFCI/HuRI_paper'>コード</a>
+
+<h2>コンペティション</h2>
+<a href='https://www.kaggle.com/'>Kaggle</a>: 世界的に有名な継続的に開かれている分析コンペ
+<a href='https://ndres.me/kaggle-past-solutions/'>Kaggle Past Solutions</a>: 実データに対するその時点のスペシャリストたちが手を尽くしたノウハウやコード
+<a href='https://signate.jp/'>SIGNATE</a>: 日本国内の継続的に開かれている分析コンペ
 
 
 <h2>機械学習・深層学習のフレームワーク</h2>
