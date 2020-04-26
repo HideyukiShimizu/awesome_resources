@@ -17,8 +17,8 @@
 <a href='http://xpaperchallenge.org/cv/'>cv.paperchalllenge:</a>コンピュータービジョンの最先端研究をみんなで読み解く<br>
 <a href='http://xpaperchallenge.org/nlp/'>nlp.paperchalllenge:</a>自然言語処理の最先端研究をみんなで読み解く<br>
 <a href='https://distill.pub/'>Distill:</a>Google Brain, OpenAI, MIT CSAILによって運営される機械学習メディア<br>
-<a href='http://web.stanford.edu/class/cs230/'>CS230: Deep Learning:</a>スタンフォード大の深層学習の講座。YouTubeで視聴できる。<br>
-<a href='http://web.stanford.edu/class/cs231n/'>CS231n: Convolutional Neural Networks for Visual Recognition:</a>スタンフォード大の画像認識の講座。YouTubeで視聴できる。<br>
+<a href='https://cs230.stanford.edu/'>CS230: Deep Learning:</a>スタンフォード大の深層学習の講座。YouTubeで視聴できる。<br>
+<a href='http://cs231n.stanford.edu/'>CS231n: Convolutional Neural Networks for Visual Recognition:</a>スタンフォード大の画像認識の講座。YouTubeで視聴できる。<br>
 <a href='http://web.stanford.edu/class/cs224n/'>CS224N: Natural Language Processing with Deep Learning:</a>スタンフォード大の自然言語処理の講座。YouTubeで視聴できる。<br>
 <a href='http://web.stanford.edu/class/cs234/'>CS234: Reinforcement Learningg:</a>スタンフォード大の強化学習の講座。YouTubeで視聴できる。<br>
 
