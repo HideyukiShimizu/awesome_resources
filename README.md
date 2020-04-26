@@ -11,6 +11,9 @@
 <a href='https://ismir.net/'>ISMIR</a>: 音楽情報処理、11月上旬<br>
 <a href='https://nips.cc/'>NeurIPS</a>: 機械学習、12月上旬
 
+<h3>フォローすべきメディア</h3>
+<a href='https://www.getrevue.co/profile/icoxfog417/'>Weekly Machine Learning</a>: 1週間のこの界隈の話題を日本語でまとめている
+
 <h2>最新モデル</h2>
 <a href='https://paperswithcode.com/sota'>Papers With COde - Browse the State-of-the-Art in Machine Learning</a>: 現時点での最高スコアを持つチャンピオンSOTA (State-of-the-Art) を集めたカタログ。実装付きの1万の論文、900のタスク。何か具体的にやりたいものがあるときの参照先。
 
