@@ -36,9 +36,9 @@
 その<a href='https://github.com/CCSB-DFCI/HuRI_paper'>コード</a>
 
 <h2>コンペティション</h2>
-<a href='https://www.kaggle.com/'>Kaggle</a>: 世界的に有名な継続的に開かれている分析コンペ
-<a href='https://ndres.me/kaggle-past-solutions/'>Kaggle Past Solutions</a>: 実データに対するその時点のスペシャリストたちが手を尽くしたノウハウやコード
-<a href='https://signate.jp/'>SIGNATE</a>: 日本国内の継続的に開かれている分析コンペ
+<a href='https://www.kaggle.com/'>Kaggle</a>: 世界的に有名な継続的に開かれている分析コンペ<br>
+<a href='https://ndres.me/kaggle-past-solutions/'>Kaggle Past Solutions</a>: 実データに対するその時点のスペシャリストたちが手を尽くしたノウハウやコード<br>
+<a href='https://signate.jp/'>SIGNATE</a>: 日本国内の継続的に開かれている分析コンペ<br>
 
 
 <h2>機械学習・深層学習のフレームワーク</h2>
