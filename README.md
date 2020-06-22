@@ -58,7 +58,9 @@ PyTorch<br>
 <h2>コード付きチュートリアル</h2>
 <a href='https://towardsdatascience.com/build-a-gender-classifier-in-google-colab-using-tensorflow-keras-and-tensorboard-2cd6f952d8aa'>Build a Gender Classifier in Google Colab using TensorFlow and Keras</a>: 顔写真から男女を識別する (TensorFlow/Keras)
 
-
+<h2>画像・映像処理</h2>
+<a href='https://www.youtube.com/watch?v=s8Ui_kV9dhw'>YouTubeの動画複数のもの、名前と位置、輪郭あての動画<br>
+<a href='http://densepose.org/'>DensePose<br>PoseNetの進化系。2Dの映像から、人間の3D表面モデルを抽出する
 <h2>自然言語処理</h2>
 <a href='https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp'>DistilBERT-base-jp</a>:日本語Wikipediaで学習したDistilBERT。MITライセンス。<br>
 <a href='https://towardsdatascience.com/natural-language-processing-the-age-of-transformers-a36c0265937d'>Natural Language Processing: the Age of Transformers</a>自然言語処理の短い歴史 (RNN, Attention,Transformer)
