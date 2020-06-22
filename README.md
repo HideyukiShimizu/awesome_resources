@@ -48,8 +48,9 @@ TensorFlow<br>
 Keras<br>
 PyTorch<br>
 <a href='https://github.com/pytorch/serve'>TorchServe</a>: PyTorchモデルをREST API化するツール。Amazon & Facebook共同開発<br>
-<a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク<br>
-
+<a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク。TensorFlowベース<br>
+<a href='https://www.dgl.ai/'>DGL</a>: GCNを実装するフレームワーク。PyTorchベース<br>
+<a href='https://pytorch-geometric.readthedocs.io/en/latest/'>PyTorch Geometric</a>: GCNを実装するフレームワーク。PyTorchベース<br>
 <h2>機械学習アルゴリズム</h2>
 <h3>クラスタリング</h3>
 <a href='https://towardsdatascience.com/dbscan-clustering-explained-97556a2ad556'>DBSCAN Clustering — Explained</a>
