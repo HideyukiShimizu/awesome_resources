@@ -29,8 +29,9 @@
 <a href='https://github.com/danielecook/Awesome-Bioinformatics'>Awesome Bioinformatics</a>: バイオインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/hsiaoyi0504/awesome-cheminformatics'>Awesome Cheminformatics</a>: ケモインフォに関するキュレーションされたソフト・ライブラリー・リソースのリスト<br>
 <a href='https://github.com/sdmg15/Best-websites-a-programmer-should-visit'>Best-websites-a-programmer-should-visit</a>: プログラミングに関する有用なウェブサイトへのリンク集<br>
-<a href='https://github.com/microsoft/forecasting'>Time Series Forecasting Best Practices & Examples</a>: Microsoftがまとめた時系列モデル構築のベストプラクティス集。Python/R双方のJupyter Notebookつき。
-
+<a href='https://github.com/microsoft/forecasting'>Time Series Forecasting Best Practices & Examples</a>: Microsoftがまとめた時系列モデル構築のベストプラクティス集。Python/R双方のJupyter Notebookつき。<br>
+<a href='https://github.com/open-mmlab/OpenSelfSup'>OpenSelfSup</a>: Self-Supervised learningの各種アルゴリズムが使用できるツールキット(PyTorchで動作)。最近話題になったMoCoやSimCLRの実装も提供されている。
+  
 <h2>読みかけ論文</h2>
 <a href='https://www.nature.com/articles/s41586-020-2188-x'>A reference map of the human binary protein interactome</a>
 その<a href='https://github.com/CCSB-DFCI/HuRI_paper'>コード</a>
@@ -51,6 +52,9 @@ PyTorch<br>
 <a href='https://github.com/deepchem/deepchem'>DeepChem</a>: 化学の深層学習フレームワーク。TensorFlowベース<br>
 <a href='https://www.dgl.ai/'>DGL</a>: GCNを実装するフレームワーク。PyTorchベース<br>
 <a href='https://pytorch-geometric.readthedocs.io/en/latest/'>PyTorch Geometric</a>: GCNを実装するフレームワーク。PyTorchベース<br>
+<a href='https://explosion.ai/blog/spacy-v2-3'>spacy</a>: 高度な自然言語処理を行うためプログラミング言語PythonとCythonで書かれたオープンソースライブラリ。2.3から日本語にも対応。<br>
+<a href='https://github.com/allenai/allennlp/releases/tag/v1.0.0'>Allennlp</a>: PyTorchベースの自然言語処理のフレームワーク
+
 <h2>機械学習アルゴリズム</h2>
 <h3>クラスタリング</h3>
 <a href='https://towardsdatascience.com/dbscan-clustering-explained-97556a2ad556'>DBSCAN Clustering — Explained</a>
@@ -63,7 +67,9 @@ PyTorch<br>
 <a href='http://densepose.org/'>DensePose<br>PoseNetの進化系。2Dの映像から、人間の3D表面モデルを抽出する
 <h2>自然言語処理</h2>
 <a href='https://github.com/BandaiNamcoResearchInc/DistilBERT-base-jp'>DistilBERT-base-jp</a>:日本語Wikipediaで学習したDistilBERT。MITライセンス。<br>
-<a href='https://towardsdatascience.com/natural-language-processing-the-age-of-transformers-a36c0265937d'>Natural Language Processing: the Age of Transformers</a>自然言語処理の短い歴史 (RNN, Attention,Transformer)
+<a href='https://towardsdatascience.com/natural-language-processing-the-age-of-transformers-a36c0265937d'>Natural Language Processing: the Age of Transformers</a>自然言語処理の短い歴史 (RNN, Attention,Transformer)<br>
+<a href='https://ogunlao.github.io/blog/2020/06/12/from_gru_to_transformer.html'>From GRU to Transformer</a>: Transformerをゲート付きRNN(GRU/LSTM)の進化系とみた場合の過程を解説した記事。ゲート付きセルは更新を行う際「コンテキスト」に「重み」をかけて加算するが前者の制約を開放すると過去だけでなく未来の系列、後者の制約を開放すると系列各要素に対する重み=AttentionになりTransformer的処理になる
+
 
 <h2>強化学習</h2>
 <a href='https://github.com/Baekalfen/PyBoy'>PyBoy</a>:Python製のゲームボーイエミュレーター
