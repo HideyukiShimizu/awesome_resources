@@ -109,6 +109,10 @@ PyTorch<br>
 <a href='https://www.magicinvestigators.org/'>MAGIC</a>: インスリン代謝GWASの全SNP結果がダウンロードできる<br>
 <h3>タンパク質</h3>
 <a href='https://www.ebi.ac.uk/intact/'>IntAct</a>: EBIが運営するタンパク-タンパク結合実験データベース<br>
+<a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース<br>
+<a href='https://www.ebi.ac.uk/pdbe/complex-pred/capri/'>CAPRI</a>: タンパクとタンパクの結合や部位を予測する国際的なcompetitionでEBIがまとめている
+
+<a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース
 <a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース
 <h3>創薬</h3>
 <a href='https://www.drugbank.ca/'>DrugBank</a>: 治療薬とその標的遺伝子に関するデータベース<br>
