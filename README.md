@@ -118,4 +118,14 @@ PyTorch<br>
 <a href='http://stitch.embl.de/'>STITCH</a>: 化合部とタンパク質が構成するネットワーク情報のウェブサイト<br>
 <a href='https://string-db.org/'>STRING</a>: タンパク質間相互作用ネットワーク情報のウェブサイト<br>
 
+<h3>抗がん剤の感受性予測とデータ</h3>
+
+<a href='https://pharmacodb.pmgenomics.ca/'>PharmacoDB</a>: 1700の細胞と800化合物の感受性データセット7つがまとめて掲載されている<br>
+<a href='https://www.bioconductor.org/packages/release/bioc/html/PharmacoGx.html'>PharmacoGx</a>: 上記Bioconductor<br>
+<a href='https://gdsctools.readthedocs.io/en/master/'>GDSCTools</a>: <a href='https://www.cancerrxgene.org/'>GDSC (Genomics of Drug Sensitivity in Cancer)</a>のデータをpythonで扱えるようにしたパッケージ<br>
+<a href='https://discover.nci.nih.gov/cellminercdb/'>CellminerCDB</a>: NCIが実施するプロジェクトで1000近くの細胞 x 5万近くの化合物のデータ<br>
+<a href='http://crdd.osdd.net/raghava/cancerdp/'>CancerDP</a>: 1000細胞株 x 24 化合物<br>
+<a href='https://www.pdxfinder.org/'>PDXFinder</a>: 細胞株ではなくPDXなのがウリ。567モデル x 33化合物。<br>
+<a href='https://github.com/bhklab/Xeva'>Xeva</a>: RのPDXツール。277モデル x 61化合物<br>
+<a href='http://cancerdrugexplorer.org/'>Cancer-Drug eXplorer</a>: 2次元細胞株462個と60化合物。<br>
 <h1>合成生物学</h1>
