@@ -114,6 +114,10 @@ PyTorch<br>
 
 <a href='https://www.ebi.ac.uk/complexportal/home'>Complex Portal</a>: EBIが運営するマニュアルキュレーションしたタンパク複合体のデータベース<br>
 
+<h3>1細胞解析</h3>
+<a href='https://singlecell.broadinstitute.org/single_cell'>Single Cell Portal</a>: Broad研究所が運営。遺伝子を入れるとどのpopulationに発現しているのか, 300近くの実験から横断検索できて便利。APIもある<br>
+<a href='http://sctpa.bio-data.cn:8080/index.html'>scTPA</a>: シングルセルのUMIデータとそれぞれの細胞腫のannotationデータをアップすれば、細胞種ごとに活性化しているpathwayを簡単に可視化できるweb server<br>
+
 <h3>創薬</h3>
 <a href='https://www.drugbank.ca/'>DrugBank</a>: 治療薬とその標的遺伝子に関するデータベース<br>
 <a href='http://db.idrblab.net/ttd/'>TTD (Therapeutic Targets Database)</a>: 治療薬とその標的遺伝子に関するデータベース<br>
