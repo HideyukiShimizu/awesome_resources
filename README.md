@@ -139,5 +139,9 @@ PyTorch<br>
 <a href='http://drugcombdb.denglab.org/main'>DrugCombDB</a>: 様々なデータソースからの薬剤の組み合わせをキュレーション。448555種類の薬剤の組み合わせ。<br>
 <a href='http:www.synapse.org/#!Synapse:syn4231880'>AstraZeneca-Sanger Drug Combination Dataset</a>:In vitroの85細胞株, 118薬剤, 910組み合わせデータ<br>
 <a href='https://dtp.cancer.gov/ncialmanac/initializePage.do'>NCI ALMANAC</a>:In vitroの60細胞株, 105薬剤, 5000+の組み合わせデータ<br>
-
+<h3>深層学習とゲノミクスのツール</h3>
+<a href='https://janggu.readthedocs.io/en/latest/'>Selene</a>:PyTOrchベースのゲノミクスツールで、既存のモデルもKipoiからアクセス可能。Nat Methods 2019掲載<br>
+<a href='https://janggu.readthedocs.io/en/latest/'>Janggue</a>:データロードや評価をnumpyのようなインターフェイスで行えるラッパー。Nat commun 2020掲載<br>
+<h3>深層学習とゲノミクスのツール</h3>
+<h3>深層学習とゲノミクスのツール</h3>
 <h1>合成生物学</h1>
