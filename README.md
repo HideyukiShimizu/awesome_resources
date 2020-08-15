@@ -140,10 +140,11 @@ PyTorch<br>
 <a href='http://cancerdrugexplorer.org/'>Cancer-Drug eXplorer</a>: 2次元細胞株462個と60化合物。<br>
 <a href='http://drugcombdb.denglab.org/main'>DrugCombDB</a>: 様々なデータソースからの薬剤の組み合わせをキュレーション。448555種類の薬剤の組み合わせ。<br>
 <a href='http:www.synapse.org/#!Synapse:syn4231880'>AstraZeneca-Sanger Drug Combination Dataset</a>:In vitroの85細胞株, 118薬剤, 910組み合わせデータ<br>
-<a href='https://dtp.cancer.gov/ncialmanac/initializePage.do'>NCI ALMANAC</a>:In vitroの60細胞株, 105薬剤, 5000+の組み合わせデータ<br>
+<a href='https://dtp.cancer.gov/ncialmanac/initializePage.do'>NCI ALMANAC</a>:In vitroの60細胞株, 105薬剤, 5000+の組み合わせデータ。さまざまな濃度のデータ。<br>
 <h3>抗がん剤の感受性予測の論文</h3>
 <a href='https://github.com/USTC-HIlab/HNMDRP'>HNMDRP</a>:GDSC, CCLEデータを使って化合物の細胞への影響を予測するツール。PPIやCPIデータも加わっているのは面白いが、全体としてpoor presentationである。<a href='https://www.nature.com/articles/s41598-018-21622-4'>Sci Rep 2018掲載</a><br>
-<a href='https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0460-9'>遺伝子mutationと発現量情報から265種類の抗がん活性予測</a>: TCGAのデータを使って遺伝子mutation、遺伝子発現をそれぞれautoencoderで事前訓練。CCLEの発現量、mutation情報をそこに流し、そのトップにFCを接続して最終的に２６５の出力 (それぞれ別々の薬のIC50に対応)を得る。Tamoxifen予測値がBRCAのER陽性患者と陰性患者でそれぞれ変わることなど臨床データと組み合わせていたのはなるほどなと思ったが、その効果量はかなり小さい。人数が多いのでp値は小さくなる<br>
+<a href='https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0460-9'>遺伝子mutationと発現量情報から265種類の抗がん活性予測</a>: TCGAのデータを使って遺伝子mutation、遺伝子発現をそれぞれautoencoderで事前訓練。CCLEの発現量、mutation情報をそこに流し、そのトップにFCを接続して最終的に265の出力 (それぞれ別々の薬のIC50に対応)を得る。Tamoxifen予測値がBRCAのER陽性患者と陰性患者でそれぞれ変わることなど臨床データと組み合わせていたのはなるほどなと思ったが、その効果量はかなり小さい。人数が多いのでp値は小さくなる<br>
+<a href='https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2509-3'>2剤併用の効果を予測する</a>: NCI-ALMANACリソースデータを活用。DragonというQSAR予測の際によく使われる商用ベースのケモインフォマティクスソフト (2019年6月で販売終了) を使って大量のchemical descriptorをまとめた行列を用意。2剤の行列をconcatenateして学習させたもののと、その細胞株におけるmRNA発現、miRNA発現、タンパク発現情報をそれぞれconcatenateして、FCでは残差接続をしてIC50を出した。実際には遺伝子発現だけでもかなりの精度になっている。<a href='https://github.com/ECP-CANDLE/Benchmarks/tree/release_01/Pilot1/Combo'>Combo</a>のコードはこちら<br>。臨床データはない。
 <h3>深層学習とゲノミクスのツール</h3>
 <a href='https://selene.flatironinstitute.org/'>Selene</a>:PyTorchベースのゲノミクスツールで、既存のモデルもKipoiからアクセス可能。Nat Methods 2019掲載。自分でも使いたい<br>
 <a href='https://janggu.readthedocs.io/en/latest/'>Janggue</a>:データロードや評価をnumpyのようなインターフェイスで行えるラッパー。Nat commun 2020掲載<br>
