@@ -126,6 +126,8 @@ PyTorch<br>
 <a href='http://stitch.embl.de/'>STITCH</a>: 化合部とタンパク質が構成するネットワーク情報のウェブサイト<br>
 <a href='https://string-db.org/'>STRING</a>: タンパク質間相互作用ネットワーク情報のウェブサイト<br>
 
+<h3>遺伝子制御ネットワークとdirect conversion</h3>
+<a href='https://github.com/vanheeringen-lab/ANANSE'>ANANSE</a>: エンハンサーネットワークを駆使した転写因子予測法でBioRxivに出ている。Nat Communくらいは通りそう。
 <h3>抗がん剤の感受性予測とデータ</h3>
 
 <a href='https://pharmacodb.pmgenomics.ca/'>PharmacoDB</a>: 1700の細胞と800化合物の感受性データセット7つがまとめて掲載されている<br>
