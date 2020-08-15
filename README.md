@@ -32,9 +32,6 @@
 <a href='https://github.com/microsoft/forecasting'>Time Series Forecasting Best Practices & Examples</a>: Microsoftがまとめた時系列モデル構築のベストプラクティス集。Python/R双方のJupyter Notebookつき。<br>
 <a href='https://github.com/open-mmlab/OpenSelfSup'>OpenSelfSup</a>: Self-Supervised learningの各種アルゴリズムが使用できるツールキット(PyTorchで動作)。最近話題になったMoCoやSimCLRの実装も提供されている。
   
-<h2>読みかけ論文</h2>
-<a href='https://www.nature.com/articles/s41586-020-2188-x'>A reference map of the human binary protein interactome</a>
-その<a href='https://github.com/CCSB-DFCI/HuRI_paper'>コード</a>
 
 <h2>コンペティション</h2>
 <a href='https://www.kaggle.com/'>Kaggle</a>: 世界的に有名な継続的に開かれている分析コンペ<br>
@@ -59,8 +56,6 @@ PyTorch<br>
 <h3>クラスタリング</h3>
 <a href='https://towardsdatascience.com/dbscan-clustering-explained-97556a2ad556'>DBSCAN Clustering — Explained</a>
 
-<h2>コード付きチュートリアル</h2>
-<a href='https://towardsdatascience.com/build-a-gender-classifier-in-google-colab-using-tensorflow-keras-and-tensorboard-2cd6f952d8aa'>Build a Gender Classifier in Google Colab using TensorFlow and Keras</a>: 顔写真から男女を識別する (TensorFlow/Keras)
 
 <h2>画像・映像処理</h2>
 <a href='https://www.youtube.com/watch?v=s8Ui_kV9dhw'>YouTubeの動画複数のもの、名前と位置、輪郭あての動画<br>
@@ -75,8 +70,9 @@ PyTorch<br>
 <a href='https://github.com/Baekalfen/PyBoy'>PyBoy</a>:Python製のゲームボーイエミュレーター
 
 <h2>機械学習・深層学習のツール</h2>
-<a href='https://openai.com/blog/microscope/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。
-<a href='https://deepmind.com/research/publications/Acme'>Acme</a>: DeepMindが開発した、強化学習を組みやすくするツール。
+<a href='https://openai.com/blog/microscope/'>OpenAI Microscope</a>: OpenAIが開発した、代表的なDNNモデル内のノード関係を視覚的にみられるサイト。フィルターやノードが何に反応するか(活性されるか)が可視化されている。<br>
+<a href='https://deepmind.com/research/publications/Acme'>Acme</a>: DeepMindが開発した、強化学習を組みやすくするツール。<br>
+<a href='https://jupyterbook.org/intro.html'>Jupyter Book</a>: Jupyter Notebookで出版可能なクオリティの本が書ける。Markdownで書けてコード/実行結果が本文に組み込める他、インタラクティブなコンテンツも埋め込むことができる。<br>
 
 
 <h2>バイオインフォマティクス情報源</h2>
