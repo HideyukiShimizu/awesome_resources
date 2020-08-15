@@ -141,6 +141,7 @@ PyTorch<br>
 <a href='https://dtp.cancer.gov/ncialmanac/initializePage.do'>NCI ALMANAC</a>:In vitroの60細胞株, 105薬剤, 5000+の組み合わせデータ<br>
 <h3>抗がん剤の感受性予測の論文</h3>
 <a href='https://github.com/USTC-HIlab/HNMDRP'>HNMDRP</a>:GDSC, CCLEデータを使って化合物の細胞への影響を予測するツール。PPIやCPIデータも加わっているのは面白いが、全体としてpoor presentationである。<a href='https://www.nature.com/articles/s41598-018-21622-4'>Sci Rep 2018掲載</a><br>
+<a href='https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0460-9'>遺伝子mutationと発現量情報から265種類の抗がん活性予測</a>: TCGAのデータを使って遺伝子mutation、遺伝子発現をそれぞれautoencoderで事前訓練。CCLEの発現量、mutation情報をそこに流し、そのトップにFCを接続して最終的に２６５の出力 (それぞれ別々の薬のIC50に対応)を得る。Tamoxifen予測値がBRCAのER陽性患者と陰性患者でそれぞれ変わることなど臨床データと組み合わせていたのはなるほどなと思ったが、その効果量はかなり小さい。人数が多いのでp値は小さくなる<br>
 <h3>深層学習とゲノミクスのツール</h3>
 <a href='https://selene.flatironinstitute.org/'>Selene</a>:PyTorchベースのゲノミクスツールで、既存のモデルもKipoiからアクセス可能。Nat Methods 2019掲載。自分でも使いたい<br>
 <a href='https://janggu.readthedocs.io/en/latest/'>Janggue</a>:データロードや評価をnumpyのようなインターフェイスで行えるラッパー。Nat commun 2020掲載<br>
