@@ -141,6 +141,7 @@ PyTorch<br>
 <a href='https://github.com/cancerdatasci/demeter2'>DEMETER2</a>:DepMapプロジェクトの1環。異なるRNAi実験系から得られた結果をもとにどの遺伝子にdependencyになっているかを正確に推定できるアルゴリズムで背景にはベイズ統計を使っている。<a href='https://www.nature.com/articles/s41467-018-06916-5'>Nat Commun 2018掲載</a><br>
 <a href='https://www.sciencedirect.com/science/article/pii/S0092867417306517?via%3Dihub'>Achilles</a>:DepMapプロジェクトの1環。MITが提出した、501の細胞株に対して94000/17000遺伝子のshRNAをかけた実験データセット。Cell 2017掲載<br>
 <a href='https://www.sciencedirect.com/science/article/pii/S0092867417308127'>DRIVE</a>:DepMapプロジェクトの1環。ノバルティスが作った、397の細胞株に対して158000/8000遺伝子のshRNAをかけた実験データセット。Cell 2017掲載</a><br>
+<a href='http://merge.cs.washington.edu/'>MARGE</a>: AML患者30人のmutation情報、遺伝子発現ハブ、既知の制御因子、CNV、メチル化情報から、ある化合物の感受性を予測するマーカー遺伝子を統合的に推定する方法。<a href='https://www.nature.com/articles/s41467-017-02465-5'>Nat Commun 2018掲載</a>。Rのコードはあるものの中途半端<br>
 <h3>抗がん剤の感受性予測の論文</h3>
 <a href='https://github.com/USTC-HIlab/HNMDRP'>HNMDRP</a>:GDSC, CCLEデータを使って化合物の細胞への影響を予測するツール。PPIやCPIデータも加わっているのは面白いが、全体としてpoor presentationである。<a href='https://www.nature.com/articles/s41598-018-21622-4'>Sci Rep 2018掲載</a><br>
 CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemicalを3072ビットにencodeしたPaDELを使ってニューラルネットワークによりIC50を予測した<a href='https://www.nature.com/articles/s41598-018-27214-6'>Sci Rep 2018掲載</a><br>
