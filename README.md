@@ -150,5 +150,9 @@ CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemical�
 <h3>深層学習とゲノミクスのツール</h3>
 <a href='https://selene.flatironinstitute.org/'>Selene</a>:PyTorchベースのゲノミクスツールで、既存のモデルもKipoiからアクセス可能。Nat Methods 2019掲載。自分でも使いたい<br>
 <a href='https://janggu.readthedocs.io/en/latest/'>Janggue</a>:データロードや評価をnumpyのようなインターフェイスで行えるラッパー。Nat commun 2020掲載<br>
+<h3>ENCODE関連</h3>
+<a href='https://www.nature.com/articles/s41586-020-2493-4'>ENCODE論文</a>:ENCODE 3プロジェクトの概要をまとめたarticle。Nature 2020掲載<br>
+<a href='https://www.encodeproject.org/'>ENCODE Portal</a>:ENCODE Portal<br>
+<a href='https://screen.encodeproject.org/'>SCREEN</a>:ENCODEデータにアクセスするためのwebブラウザ<br>
 
 <h1>合成生物学</h1>
