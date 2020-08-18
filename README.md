@@ -151,9 +151,10 @@ CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemical�
 <a href='https://selene.flatironinstitute.org/'>Selene</a>:PyTorchベースのゲノミクスツールで、既存のモデルもKipoiからアクセス可能。Nat Methods 2019掲載。自分でも使いたい<br>
 <a href='https://janggu.readthedocs.io/en/latest/'>Janggue</a>:データロードや評価をnumpyのようなインターフェイスで行えるラッパー。Nat commun 2020掲載<br>
 <h3>ENCODE関連</h3>
-<a href='https://www.nature.com/articles/s41586-020-2493-4'>ENCODE論文</a>:ENCODE 3プロジェクトの概要をまとめたarticle。Nature 2020掲載<br>
+<a href='https://www.nature.com/articles/s41586-020-2493-4'>ENCODE論文</a>:ENCODE 3プロジェクトの概要をまとめたarticle。プロモーター活性を測るRAMPAGeやRNA結合のeCLIP, 3Dクロマチン構造データもある。Nature 2020掲載<br>
 <a href='https://www.encodeproject.org/'>ENCODE Portal</a>:ENCODE Portal<br>
 <a href='https://screen.encodeproject.org/'>SCREEN</a>:ENCODEデータにアクセスするためのwebブラウザ<br>
 <a href='http://encodec.encodeproject.org/'>ENCODEC</a>:ENCODEデータを機械学習してがんゲノミクスに応用。<a href='https://www.nature.com/articles/s41467-020-14743-w'>Nature Commun 2020掲載</a><br>
+<a href='https://github.com/gersteinlab/MatchedFilter'>ENCODEC</a>:ENCODEデータを機械学習してエンハンサー部位を学習する論文。<a href='https://www.nature.com/articles/s41592-020-0907-8'>Nature Methods 2020掲載</a><br>
 
 <h1>合成生物学</h1>
