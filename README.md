@@ -155,6 +155,6 @@ CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemical�
 <a href='https://www.encodeproject.org/'>ENCODE Portal</a>:ENCODE Portal<br>
 <a href='https://screen.encodeproject.org/'>SCREEN</a>:ENCODEデータにアクセスするためのwebブラウザ<br>
 <a href='http://encodec.encodeproject.org/'>ENCODEC</a>:ENCODEデータを機械学習してがんゲノミクスに応用。<a href='https://www.nature.com/articles/s41467-020-14743-w'>Nature Commun 2020掲載</a><br>
-<a href='https://github.com/gersteinlab/MatchedFilter'>ENCODEC</a>:ENCODEデータを機械学習してエンハンサー部位を学習する論文。<a href='https://www.nature.com/articles/s41592-020-0907-8'>Nature Methods 2020掲載</a><br>
+<a href='https://github.com/gersteinlab/MatchedFilter'>MatchedFilter</a>:ENCODEデータを機械学習してエンハンサー部位を学習する論文。<a href='https://www.nature.com/articles/s41592-020-0907-8'>Nature Methods 2020掲載</a><br>
 
 <h1>合成生物学</h1>
