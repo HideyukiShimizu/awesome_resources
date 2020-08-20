@@ -135,7 +135,7 @@ PyTorch<br>
 <a href='https://www.pdxfinder.org/'>PDXFinder</a>: 細胞株ではなくPDXなのがウリ。567モデル x 33化合物。<br>
 <a href='https://github.com/bhklab/Xeva'>Xeva</a>: RのPDXツール。277モデル x 61化合物<br>
 <a href='http://cancerdrugexplorer.org/'>Cancer-Drug eXplorer</a>: 2次元細胞株462個と60化合物。mutation情報は各種がんがあるものの、transcriptomeはgliomaのみなのが残念<br>
-<a href='http://drugcombdb.denglab.org/main'>DrugCombDB</a>: 様々なデータソースからの薬剤の組み合わせをキュレーション。448555種類の薬剤の組み合わせ。<br>
+<a href='http://drugcombdb.denglab.org/main'>DrugCombDB</a>: 様々なデータソースからの薬剤の組み合わせをキュレーション。448555種類の薬剤の組み合わせ。濃度に関する情報もあり。<a href='https://academic.oup.com/nar/article/48/D1/D871/5609522'>NAR 2020掲載</a><br>
 <a href='http:www.synapse.org/#!Synapse:syn4231880'>AstraZeneca-Sanger Drug Combination Dataset</a>:In vitroの85細胞株, 118薬剤, 910組み合わせデータ<br>
 <a href='https://dtp.cancer.gov/ncialmanac/initializePage.do'>NCI ALMANAC</a>:In vitroの60細胞株, 105薬剤, 5000+の組み合わせデータ。さまざまな濃度のデータ。<br>
 <a href='https://github.com/cancerdatasci/demeter2'>DEMETER2</a>:DepMapプロジェクトの1環。異なるRNAi実験系から得られた結果をもとにどの遺伝子にdependencyになっているかを正確に推定できるアルゴリズムで背景にはベイズ統計を使っている。<a href='https://www.nature.com/articles/s41467-018-06916-5'>Nat Commun 2018掲載</a><br>
