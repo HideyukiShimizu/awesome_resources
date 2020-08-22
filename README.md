@@ -157,4 +157,10 @@ CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemical�
 <a href='http://encodec.encodeproject.org/'>ENCODEC</a>:ENCODEデータを機械学習してがんゲノミクスに応用。<a href='https://www.nature.com/articles/s41467-020-14743-w'>Nature Commun 2020掲載</a><br>
 <a href='https://github.com/gersteinlab/MatchedFilter'>MatchedFilter</a>:ENCODEデータを機械学習してエンハンサー部位を学習する論文。<a href='https://www.nature.com/articles/s41592-020-0907-8'>Nature Methods 2020掲載</a><br>
 
+
+
 <h1>合成生物学</h1>
+<h3>システム生物学</h3>
+<a href='https://www.ebi.ac.uk/biomodels/'>BioModels</a>: EMBLが運営するバイオモデルのレポジトリーで自由にダウンロード可能<br>
+<a href='http://celldesigner.org/'>CellDesigner</a>: SBMLに準拠したシミュレーター<br>
+
