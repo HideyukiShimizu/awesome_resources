@@ -129,7 +129,7 @@ PyTorch<br>
 <a href='https://pharmacodb.pmgenomics.ca/'>PharmacoDB</a>: 1700の細胞と800化合物の感受性データセット7つがまとめて掲載されている<br>
 <a href='https://www.bioconductor.org/packages/release/bioc/html/PharmacoGx.html'>PharmacoGx</a>: 上記Bioconductor<br>
 <a href='https://gdsctools.readthedocs.io/en/master/'>GDSCTools</a>: <a href='https://www.cancerrxgene.org/'>GDSC (Genomics of Drug Sensitivity in Cancer)</a>のデータをpythonで扱えるようにしたパッケージ<br>
-<a href='https://discover.nci.nih.gov/cellminercdb/'>CellminerCDB</a>: NCIが実施するプロジェクトで1000近くの細胞 x 5万近くの化合物のデータ<br>
+<a href='https://discover.nci.nih.gov/cellminercdb/'>CellminerCDB</a>: NCIが実施するプロジェクトで1000近くの細胞 x 5万近くの化合物のデータ。原著は<a href='https://www.cell.com/iscience/fulltext/S2589-0042(18)30219-0'>iScience 2018</a>で、Bioconductorのツールもある。<a href='https://discover.nci.nih.gov/SclcCellMinerCDB/'>small cell lung cancerバージョン</a>もあり<br>
 <a href='http://crdd.osdd.net/raghava/cancerdp/'>CancerDP</a>: 1000細胞株 x 24 化合物<br>
 <a href='https://cancer.sanger.ac.uk/cell_lines'>CCLP</a>: COSMICの一環で行われている。<br>
 <a href='https://www.pdxfinder.org/'>PDXFinder</a>: 細胞株ではなくPDXなのがウリ。567モデル x 33化合物。<br>
