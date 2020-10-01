@@ -165,3 +165,6 @@ CDRscan:がん患者さんの28328のmutationの有無 (binary) と、chemical�
 <a href='https://www.ebi.ac.uk/biomodels/'>BioModels</a>: EMBLが運営するバイオモデルのレポジトリーで自由にダウンロード可能<br>
 <a href='http://celldesigner.org/'>CellDesigner</a>: SBMLに準拠したシミュレーター<br>
 
+
+<a href='https://protocolsmethods.springernature.com/channels/1912-from-the-editors'>From the editors</a>: Nature Methodsのeditorによる解説記事<br>
+
